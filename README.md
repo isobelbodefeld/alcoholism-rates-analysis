@@ -15,7 +15,7 @@ This repository contains the analysis of drinking habits based on marital and pa
 
 ## Project Overview
 
-The goal of this project is to explore and compare the drinking habits of two different groups of men: those who are married with children and those who are single without children. The analysis includes data visualization, statistical testing, and summary statistics.
+The goal of this project is to explore and compare the drinking habits of two different groups of men: those who are married with children and those who are single without children. The analysis includes data visualization, statistical testing, and summary statistics pertaining to alcohol rates between the two groups. 
 
 ## Data
 
@@ -61,7 +61,7 @@ The analysis requires the following R packages:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/drinking-habits-analysis.git
+   git clone https://github.com/isobelbodefeld/drinking-habits-analysis.git
    
 2. Navigate to the project directory:
    cd drinking-habits-analysis
