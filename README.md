@@ -11,7 +11,6 @@ This repository contains the analysis of drinking habits based on marital and pa
 - [How to Run the Code](#how-to-run-the-code)
 - [Files in This Repository](#files-in-this-repository)
 - [Author](#author)
-- [License](#license)
 
 ## Project Overview
 
