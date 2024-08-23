@@ -83,5 +83,3 @@ The analysis requires the following R packages:
 - **Isobel Bodefeld**
   - [LinkedIn](https://www.linkedin.com/in/isobelbodefeld)
   - [Email](mailto:bodefeldisobel@gmail.com)
-
-
